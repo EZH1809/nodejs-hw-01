@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Mrs. Tracy Boyle",
+    "phone": "737-911-6820 x18698",
+    "email": "Herminia15@yahoo.com",
+    "job": "Lead Assurance Executive"
+  },
+  {
+    "name": "Brandon Pfeffer",
+    "phone": "(888) 486-9718 x1480",
+    "email": "Raoul.Senger81@gmail.com",
+    "job": "Future Solutions Coordinator"
+  },
+  {
+    "name": "Bonnie Kuhn",
+    "phone": "690.261.5448 x2907",
+    "email": "Greta_Schaefer@hotmail.com",
+    "job": "Human Factors Liaison"
+  }
+]
