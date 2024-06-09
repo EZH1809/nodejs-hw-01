@@ -16,7 +16,7 @@ export const thanos = async () => {
       } contacts have been removed.`,
     );
   } catch (error) {
-    console.error(''Deletion Error:', error);
+    console.error('Deletion Error:', error);
   }
 };
 
